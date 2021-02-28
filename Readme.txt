@@ -1,0 +1,3 @@
+writers - Amir levi,Bar Tal-or.
+
+This is the code for our mini-project course "Topics in geometric networks" (Ben Gurion university, israel). the repository contains several algorithms, each of them recieves a set of points and returns a graph which is an approximation for the graph with the minimal wiender index for this set of points (each algorithm comes with different assumptions about the points, and with different extra constraints on the graphs).
